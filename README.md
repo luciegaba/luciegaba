@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciegaba&label=Profile%20views&color=0e75b6&style=flat" alt="luciegaba" /> </p>
 
+- 🚀 I'm ML Engineer (in apprenticeship) at Société Générale Assurances, and I'm aspiring to specialize in MLOps/DevOps
+
 - 🔭 I’m currently working on [Sentiment Analysis over Trip Advisor](https://github.com/luciegaba/sentiment-analysis-tripadvisor)
 
 - 🌱 I’m currently learning [Data Engineering, Big Data, and Machine Learning on GCP](https://www.coursera.org/specializations/gcp-data-machine-learning)
