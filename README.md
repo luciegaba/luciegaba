@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucie</h1>
 <h3 align="center">👩‍🎓 A Data Science student at University Paris 1 Panthéon-Sorbonne</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luciegaba&label=Profile%20views&color=0e75b6&style=flat" alt="luciegaba" /> </p>
 
 - 🚀 I'm ML Engineer (in apprenticeship) at @Société Générale Assurances, and I'm aspiring to specialize in MLOps/DevOps
 
