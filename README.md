@@ -2,11 +2,8 @@
 <h3 align="center">👩‍🎓 A Data Science student at University Paris 1 Panthéon-Sorbonne</h3>
 
 
-- 🚀 I'm ML Engineer (in apprenticeship) at @Société Générale Assurances, and I'm aspiring to specialize in MLOps/DevOps
+- 🚀 I'm ML Engineer (in apprenticeship) at @Société Générale Assurances
 
-- 🔭 I’m currently working on [Sentiment Analysis over Trip Advisor](https://github.com/luciegaba/sentiment-analysis-tripadvisor)
-
-- 🌱 I’m currently learning [Data Engineering, Big Data, and Machine Learning on GCP](https://www.coursera.org/specializations/gcp-data-machine-learning)
 
 
 <h3 align="left">Connect with me:</h3>
