@@ -2,10 +2,6 @@
 <h3 align="center">👩‍🎓 A Data Science student at University Paris 1 Panthéon-Sorbonne</h3>
 
 
-- 🚀 I'm ML Engineer (in apprenticeship) at @Société Générale Assurances
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/lucie-gabagnou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucie-gabagnou" height="30" width="40" /></a>
